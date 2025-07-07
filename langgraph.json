@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "main:graph"
+  },
+  "env": ".env",
+  "image_distro": "wolfi"
+}

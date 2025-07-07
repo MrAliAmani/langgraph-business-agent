@@ -1,0 +1,5 @@
+langgraph
+langchain-core
+pytest
+langgraph-cli>=0.2.6
+typing-extensions
